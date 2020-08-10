@@ -1,0 +1,24 @@
+     Program Starting -- 2020/08/08 -- 14:20  -- Hello! 
+2020/08/08 -- 14:20:34  -- Door Closed 
+2020/08/08 -- 14:20:35  -- Door Closed 
+2020/08/08 -- 14:20:36  -- Door Closed 
+2020/08/08 -- 14:20:37  -- Door Closed 
+2020/08/08 -- 14:20:41  -- Door Opening/Closing 
+2020/08/08 -- 14:20:42  -- Door Opening/Closing 
+2020/08/08 -- 14:20:43  -- Door Opening/Closing 
+2020/08/08 -- 14:20:47  -- Door Open 
+2020/08/08 -- 14:20:48  -- Door Open 
+2020/08/08 -- 14:20:49  -- Door Open 
+2020/08/08 -- 14:20:50  -- Door Open 
+2020/08/08 -- 14:20:54  -- Door Opening/Closing 
+2020/08/08 -- 14:20:55  -- Door Opening/Closing 
+2020/08/08 -- 14:20:56  -- Door Opening/Closing 
+2020/08/08 -- 14:21:00  -- Door Closed 
+2020/08/08 -- 14:21:01  -- Door Closed 
+2020/08/08 -- 14:21:02  -- Door Closed 
+2020/08/08 -- 14:21:03  -- Door Closed 
+2020/08/08 -- 14:21:04  -- Door Closed 
+2020/08/08 -- 14:21:05  -- Door Closed 
+2020/08/08 -- 14:21:06  -- Door Closed 
+2020/08/08 -- 14:21:07  -- Door Closed 
+     Log Program Shutdown -- 2020/08/08 -- 14:21  -- Goodbye! 

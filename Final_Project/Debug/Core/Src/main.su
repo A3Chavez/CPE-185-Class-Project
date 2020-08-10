@@ -1,0 +1,10 @@
+main.c:71:14:Door_Opened	8	static
+main.c:77:14:Door_Opening	8	static
+main.c:100:14:Door_Closing	8	static
+main.c:118:14:Door_Closed	8	static
+main.c:129:5:main	16	static
+main.c:202:6:SystemClock_Config	184	static
+main.c:267:13:MX_TIM2_Init	64	static
+main.c:326:13:MX_USART2_UART_Init	8	static
+main.c:361:13:MX_GPIO_Init	40	static
+main.c:404:6:Error_Handler	4	static

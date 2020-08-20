@@ -5,13 +5,13 @@
  
  University: CSUS
  
- Class Project
- 
  Authors: Anthony Chavez, Vladyslav Krotov, Faaiz Siddiqui
  
-     Anthony Chavez: Nucleo Finite State Machine Code Development and Operation, Raspberry Pi Data Logging Development and Operation, Raspberry Pi Web Server 
-                     Development and Operation, Project Management
+ Team Member Responsibilities:
+ 
+ Anthony Chavez: Nucleo Finite State Machine Code Development and Operation, Raspberry Pi Data Logging Development and Operation, Raspberry Pi Web Server 
+                 Development and Operation, Project Management
      
-     Vladyslav Krotov: Servo Motor Configuration and Operation and Garage Construction and Operation
+ Vladyslav Krotov: Servo Motor Configuration and Operation and Garage Construction and Operation
      
-     Faaiz Siddiqui: Garage IR Sensor Analysis and Operation and Garage Construction and Operation
+ Faaiz Siddiqui: Garage IR Sensor Analysis and Operation and Garage Construction and Operation

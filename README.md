@@ -7,7 +7,7 @@
  
  Authors: Anthony Chavez, Vladyslav Krotov, Faaiz Siddiqui
  
- Team Member Responsibilities:
+# Team Member Responsibilities:
  
  Anthony Chavez: Nucleo Finite State Machine Code Development and Operation, Raspberry Pi Data Logging Development and Operation, Raspberry Pi Web Server 
                  Development and Operation, Project Management
